@@ -1,0 +1,6 @@
+2024-12-02 18:39:24 - INFO - Начало обработки данных.
+2024-12-02 18:39:24 - INFO - Загрузка Excel файла: //Users/shamil/Documents/python_scripts/add_dimensions_to_excel/02.12.2024/input_data.xlsx
+2024-12-02 18:39:24 - INFO - Загрузка CSV файла дампа: /Users/shamil/Documents/python_scripts/add_dimensions_to_excel/02.12.2024/dump_data.csv
+2024-12-02 18:39:25 - INFO - Сопоставление данных по полю 'артикул'
+2024-12-02 18:39:25 - INFO - Сохранение обновленного файла: /Users/shamil/Documents/python_scripts/add_dimensions_to_excel/02.12.2024/output_data.xlsx
+2024-12-02 18:39:25 - INFO - Обработка данных завершена успешно.
